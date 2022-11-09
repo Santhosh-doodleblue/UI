@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 
-.body {
+.wrap {
   width: 100%;
   min-height: 100vh;
   background-image: url(./Sugar-b.jpeg);
@@ -19,13 +19,14 @@
 .col-md-4 p {
   color: #a2a2a2;
 }
-.button {
+.read {
   padding: 10px 25px;
   font-size: large;
   border: 2px solid #b5a15f;
   border-radius: 25px;
   background-color: white;
   color: #a2a2a2;
+  letter-spacing: 2px;
 }
 .footer a {
   color: #b5a15f;
